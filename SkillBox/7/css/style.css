@@ -264,6 +264,11 @@ body {
   background-color: #fff;
 }
 
+.service-arrow {
+  margin: auto;
+  vertical-align: middle;
+}
+
 .services-item:not(:nth-child(2n)) {
   margin-right: 24px;
   flex-direction: column;
